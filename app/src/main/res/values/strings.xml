@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Top Twitch games</string>
+    <string name="viewers">Зрители: %1$d</string>
+    <string name="channels">Каналы: %1$d</string>
+    <string name="review_app">Оставить отзыв</string>
+    <string name="your_review">Ваш отзыв</string>
+    <string name="your_rating">Ваша оценка</string>
+    <string name="add_review">Добавить отзыв</string>
+    <string name="enter_text">Введите текст</string>
+</resources>

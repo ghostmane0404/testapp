@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#121212</color>
+    <color name="medium">#8C121212</color>
+    <color name="ligher">#303030</color>
+    <color name="colorItemText">#4F4F4F</color>
+    <color name="ratingStart">#F2994A</color>
+</resources>
